@@ -1,2 +1,7 @@
-# Project_Open_Street_Map
-Wrangling open street map data  
+# Wrangling OpenStreet Map Data
+ 
+### Description
+#### Coding resources and other materials for the data wrangling project.
+1. [Map Area]()
+2. [Codes & Report]()
+3. [References]()
